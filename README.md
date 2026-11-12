@@ -54,6 +54,7 @@ Details: [zgrok.io/pricing](https://www.zgrok.io/pricing)
 - Documentation: [zgrok.io/docs](https://www.zgrok.io/docs)
 - Support: support@zgrok.io
 - Security reports: security@zgrok.io
+- Updates: [@zgrokio on X](https://x.com/zgrokio)
 
 ---
 
