@@ -44,10 +44,11 @@ Every release is signed, and the CLI and both installers verify the signature be
 
 ## Plans
 
-- **Free:** 2 concurrent tunnels, unlimited data and requests, 30-day request history.
-- **Pro ($9/month):** 10 tunnels, stable custom tunnel names, password protection, IP allowlists, 90-day history.
+**Free** needs no card and runs more than one tunnel at a time, with unlimited data and requests
+and a window of request history. **Pro** raises the tunnel count, keeps a custom tunnel name
+across sessions, and adds password protection, IP allowlists and a longer history window.
 
-Details: [zgrok.io/pricing](https://www.zgrok.io/pricing)
+Every limit and the current price: [zgrok.io/pricing](https://www.zgrok.io/pricing)
 
 ## Help
 
